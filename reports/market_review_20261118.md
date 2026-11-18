@@ -1,37 +1,42 @@
 # 🎯 Market Review
 
-## 2026-11-18 US Market Recap
+## 📊 2026-11-18 US Market Recap
 
 ### 1. Market Summary
-The US market experienced a broad risk-off session on November 18, 2026, with all major indices closing in negative territory. The S&P 500, Nasdaq, and Dow Jones Industrial Average moved downward in alignment, reflecting downward pressure across large-cap benchmarks alongside a slight easing in the VIX volatility index.
+US equity markets closed with mixed results on November 18, 2026, as strength in technology stocks pushed the Nasdaq Composite higher while the Dow Jones Industrial Average lagged behind. The S&P 500 ended slightly in positive territory (+0.13% to 7,349.80), the Nasdaq gained 0.72% to 24,502.70, and the Dow declined 0.73% to 50,391.16. Volatility cooled modestly, with the CBOE Volatility Index (VIX) falling 4.36% to 24.35 amidst a session lacking major market-moving news catalysts.
 
-- **Market Signal**: 45/100 (mixed, balanced)
-- **Drivers**: average major-index change -1.14%
+- **Market Signal**: 50/100 (mixed, balanced)
+- **Drivers**: average major-index change +0.04%
 - **Guidance**: Signals are mixed; keep position sizing moderate and wait for confirmation.
 
 ### 2. Index Commentary
-The Dow Jones Industrial Average led the losses, dropping 1.64% to close at 50,759.42, indicating notable weakness in industrial and blue-chip components. The S&P 500 fell 1.03% to 7,340.53, while the tech-heavy Nasdaq Composite declined 0.74% to 24,328.38, demonstrating a slightly milder pullback relative to the Dow. Meanwhile, the VIX volatility index ticked down by 2.79% to 24.75, remaining elevated despite the session's equity declines. Aggregate turnover, volume confirmation, and market breadth data are not available.
+- **S&P 500**: Closed at 7,349.80, up 0.13%. The benchmark index reflected a balanced tug-of-war between growth outperformance and industrial weakness, consolidating near current levels.
+- **Nasdaq Composite**: Outperformed the major indices, gaining 0.72% to close at 24,502.70. Growth and tech-oriented equities demonstrated relative resilience during the session.
+- **Dow Jones Industrial Average**: Lagged the broader market, dropping 0.73% to 50,391.16, indicating selling pressure across traditional blue-chip and value components.
+- **VIX**: Decreased by 4.36% to 24.35. Although implied volatility eased on the day, VIX levels remain elevated above 20, reflecting lingering underlying market uncertainty.
 
 | Index | Last | Change % | Open | High | Low | Amplitude | Turnover (USD bn) |
 |-------|------|----------|------|------|-----|-----------|-----------------|
-| 标普500指数 | 7340.53 | 🔴 -1.03% | 7411.02 | 7415.37 | 7288.34 | 1.71% | N/A |
-| 纳斯达克综合指数 | 24328.38 | 🔴 -0.74% | 24528.06 | 24547.66 | 23989.09 | 2.28% | N/A |
-| 道琼斯工业指数 | 50759.42 | 🔴 -1.64% | 51386.98 | 51463.53 | 50566.98 | 1.74% | N/A |
-| VIX恐慌指数 | 24.75 | 🔴 -2.79% | 24.22 | 24.89 | 23.47 | 5.58% | N/A |
+| 标普500指数 | 7349.80 | 🟢 +0.13% | 7355.69 | 7367.68 | 7285.76 | 1.12% | N/A |
+| 纳斯达克综合指数 | 24502.70 | 🟢 +0.72% | 24486.17 | 24538.78 | 24225.30 | 1.29% | N/A |
+| 道琼斯工业指数 | 50391.16 | 🔴 -0.73% | 50627.36 | 50637.70 | 50029.35 | 1.20% | N/A |
+| VIX恐慌指数 | 24.35 | 🔴 -4.36% | 24.22 | 26.26 | 23.47 | 10.96% | N/A |
 
 ### 3. News Catalysts
-There was no relevant market news reported for this session. Price action was driven primarily by direct index movement rather than specific headline catalysts. Due to data limits, market breadth, fund-flow signals, and sector-ranking details cannot be inferred or analyzed.
+- **Macro & Market News**: No significant macro or news catalysts were reported for today's session.
+- **Data Limitations**: In accordance with available data limits, aggregate turnover, participation, market breadth, fund flows, and specific sector/theme rankings cannot be confirmed for this trading session. Price action was primarily characterized by rotational divergence between major indices.
 
 ### 4. Outlook
-The near-term outlook remains cautious following the synchronized downward movement across the S&P 500, Nasdaq, and Dow. Because market breadth, turnover, and sector-ranking data are absent, further directional conviction depends on whether key index levels can stabilize or if selling pressure persists across major benchmarks.
+The near-term market outlook remains neutral to mixed due to persistent divergence between the Nasdaq and the Dow. While tech momentum provides a floor for the S&P 500 and Nasdaq, the weakness in the Dow highlights underlying hesitation across non-tech sectors. With the VIX hovering at 24.35, traders should anticipate continued chop and range-bound trading until clear directional catalysts emerge.
 
 ### 5. Risk Alerts
-- Continued downward momentum and failure to hold major index support levels.
-- Persistent volatility as indicated by the VIX holding above the 24 level.
-- Absence of supportive breadth or volume data to confirm a potential market floor.
+- **Index Divergence**: A failure of broader cyclicals/industrials (Dow) to stabilize could eventually weigh on general market sentiment.
+- **Elevated Volatility**: A VIX reading above 24 indicates that market sensitivity to unexpected news or risk events remains elevated.
+- **Lack of Broad Participation Confirmation**: Without breadth and volume confirmation, upside momentum in growth names may face sudden profit-taking.
 
 ### 6. Strategy Plan
-- Stance: Defensive.
-- Position-sizing Guideline: Reduce overall equity exposure and limit new long commitments until index stabilization is confirmed.
-- Invalidation Trigger: A decisive reclaim and hold of previous session resistance levels by the S&P 500 and Nasdaq.
-- For reference only, not investment advice.
+- **Stance**: Balanced / Neutral. Avoid chasing index breakouts while major indices display divergent trends.
+- **Position-Sizing Guideline**: Maintain moderate position sizing with strict risk parameters; favor selective relative-strength setups over aggressive beta exposure.
+- **Invalidation Trigger**: A breakdown in the S&P 500 below key support accompanied by a spike in the VIX back above 26.00 would shift the posture to Risk-Off.
+
+For reference only, not investment advice.
